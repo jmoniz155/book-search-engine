@@ -1,7 +1,7 @@
 # book-search-engine
 
 ## Description
-`This is a book search engine application that allows a user to look up a book
+This is a book search engine application that allows a user to look up a book
 
 ![](image/booksearch.jpg)
 
