@@ -1,18 +1,14 @@
 # book-search-engine
 
 ## Description
-```
+`This is a book search engine application that allows a user to look up a book
+
+![](image/booksearch.jpg)
 
 
-![]()
+## Credits
 
----
-
-## Function
-
-This application functions using a front end and back end
-
----
+I would like to give credit to my Varsity Tutor for helping me understand how to add routes, and link with mongoose.
 
 ## Table of Contents
 
@@ -24,9 +20,7 @@ This application functions using a front end and back end
 
 [Links](#links)
 
-[Author](#author)
 
----
 ## Study-Material
 
 [Mongodb](https://www.mongodb.com/)
@@ -37,30 +31,23 @@ This application functions using a front end and back end
 
 [Express](https://expressjs.com/en/starter/hello-world.html)
 
-[Cache](https://web.dev/offline-cookbook/#cache-falling-back-to-network)
+[Mozilla Json Stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 
-[Mozilla Web Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
-
-[Mozilla Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker)
-
----
 
 ## Features
 
-This app was built using HTML 3, CSS 6, Javascript, Express, Mongoose
-
----
+This app was built using HTML 3, CSS 6, Javascript, Mongoose, and Express
 
 ## Links
 
-[GitHub Repository](https://github.com/jmoniz155/book-search-engine)
+[Repository](https://github.com/jmoniz155/book-search-engine)
 
-[Heroku Deployed App](https://deploy-budget-11172021.book-search-engine/)
+[Live Website](https://jmoniz155.github.io/book-search-engine/)
 
----
----
 
-## Author
+
+
+
 
 ![lco mascot](https://learncodeonline.in/mascot.png)
 
