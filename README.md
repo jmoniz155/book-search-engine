@@ -1,14 +1,10 @@
-# book-search-engine
+# Book-Search-Engine
 
 ## Description
-This is a book search engine application that allows a user to look up a book
+This is a book search engine application that allows a user to login or sign up with an email and password.  You can then search for a book which returns an image of the front page of a book, the author, a summary as well as an option to save the book for later viewing.
 
 ![](image/booksearch.jpg)
 
-
-## Credits
-
-I would like to give credit to my Varsity Tutor for helping me understand how to add routes, and link with mongoose.
 
 ## Table of Contents
 
@@ -23,20 +19,21 @@ I would like to give credit to my Varsity Tutor for helping me understand how to
 
 ## Study-Material
 
-[Mongodb](https://www.mongodb.com/)
+[Express Routing](https://expressjs.com/en/guide/routing.html)
 
-[Mongodb Methods](https://docs.mongodb.com/mongodb-shell/reference/methods/)
+[GraphQL](https://graphql.org/learn/)
 
-[Mongoose](https://mongoosejs.com/docs/5.x/docs/models.html)
+[Apollo Server Express](https://www.npmjs.com/package/apollo-server-express)
 
-[Express](https://expressjs.com/en/starter/hello-world.html)
+[Apollo Authentication](https://www.apollographql.com/docs/apollo-server/security/authentication/)
 
-[Mozilla Json Stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+[Apollo graphQL Resolvers](https://www.apollographql.com/docs/apollo-server/data/resolvers/)
 
+[Apollo graphQL typeDefs](https://www.apollographql.com/docs/react/local-state/client-side-schema/)
 
 ## Features
 
-This app was built using HTML 3, CSS 6, Javascript, Mongoose, and Express
+This app was built using HTML 3, CSS 6, Javascript, Apollo Server Express, graphQL, webToken,
 
 ## Links
 
@@ -45,7 +42,7 @@ This app was built using HTML 3, CSS 6, Javascript, Mongoose, and Express
 [Live Website](https://jmoniz155.github.io/book-search-engine/)
 
 
-
+## Author
 
 
 
